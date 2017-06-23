@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/11.unity
+- path: Assets/Scenes/EscenaPruebasGlobo.unity
   isLoaded: 1
   isActive: 1
