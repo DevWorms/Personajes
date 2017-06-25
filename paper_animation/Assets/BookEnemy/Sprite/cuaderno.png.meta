@@ -1,0 +1,654 @@
+fileFormatVersion: 2
+guid: 04ab6ac26df8b6347b024fcec9f38f99
+timeCreated: 1498060731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BookWalk_1
+    21300002: BookWalk_2
+    21300004: BookWalk_3
+    21300006: BookWalk_4
+    21300008: BookWalk_5
+    21300010: BookAttack_1
+    21300012: BookAttack_2
+    21300014: BookAttack_3
+    21300016: BookAttack_4
+    21300018: cuaderno_9
+    21300020: BookAttack_5
+    21300022: cuaderno_11
+    21300024: BookAttack_6
+    21300026: cuaderno_13
+    21300028: cuaderno_14
+    21300030: cuaderno_15
+    21300032: BookHurt_1
+    21300034: BookHurt_2
+    21300036: BookHurt_3
+    21300038: BookHurt_4
+    21300040: BookHurt_6
+    21300042: BookHurt_7
+    21300044: BookHurt_8
+    21300046: BookDying_1
+    21300048: BookDying_2
+    21300050: BookDying_3
+    21300052: BookDying_4
+    21300054: BookDying_6
+    21300056: BookDying_7
+    21300058: BookDying_8
+    21300060: BookDying_9
+    21300062: BookDying_10
+    21300064: BookDying_11
+    21300066: BookIdle_1
+    21300068: BookIdle_2
+    21300070: BookIdle_3
+    21300072: BookIdle_4
+    21300074: BookDying_5
+    21300076: BookHurt_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BookWalk_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 199
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookWalk_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1227
+        width: 177
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookWalk_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1227
+        width: 215
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookWalk_4
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1227
+        width: 200
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookWalk_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1227
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookAttack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 199
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookAttack_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 918
+        width: 177
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookAttack_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 918
+        width: 215
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookAttack_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 918
+        width: 200
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuaderno_9
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1003
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 918
+        width: 239
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuaderno_11
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1000
+        width: 144
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 934
+        width: 145
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuaderno_13
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 938
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuaderno_14
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 934
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuaderno_15
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 933
+        width: 117
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 199
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 607
+        width: 177
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 609
+        width: 215
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 609
+        width: 199
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_6
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 606
+        width: 199
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_7
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 609
+        width: 176
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_8
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 608
+        width: 215
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 199
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 302
+        width: 176
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 300
+        width: 215
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 300
+        width: 199
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 297
+        width: 201
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_7
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 298
+        width: 176
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_8
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 300
+        width: 181
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_9
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 305
+        width: 162
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_10
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 311
+        width: 166
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_11
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 307
+        width: 269
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookIdle_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 141
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookIdle_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 144
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookIdle_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 143
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookIdle_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 5
+        width: 144
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookDying_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 298
+        width: 236
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BookHurt_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 610
+        width: 236
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
