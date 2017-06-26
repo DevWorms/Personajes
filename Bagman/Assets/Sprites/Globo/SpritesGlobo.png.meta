@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 0768030e192224a4d8d6064622295dd7
+timeCreated: 1498166816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpritesGloboEspera1
+    21300002: SpritesGloboEspera2
+    21300004: SpritesGloboEspera3
+    21300006: SpritesGloboEspera4
+    21300008: SpritesGloboCamiar1
+    21300010: SpritesGloboCaminar2
+    21300012: SpritesGloboCaminar3
+    21300014: SpritesGloboCaminar4
+    21300016: SpritesGloboCaminar5
+    21300018: SpritesGloboCaminar6
+    21300020: SpritesGloboHerido1
+    21300022: SpritesGloboHerido2
+    21300024: SpritesGloboHerido3
+    21300026: SpritesGloboAtaque1
+    21300028: SpritesGloboAtaque2
+    21300030: SpritesGloboAtaque3
+    21300032: SpritesGloboAtaque4
+    21300034: SpritesGloboAtaque5
+    21300036: SpritesGloboAtaque6
+    21300038: SpritesGloboAtaque7
+    21300040: SpritesGloboMuerte1
+    21300042: SpritesGlobo_36
+    21300044: SpritesGlobo_37
+    21300046: SpritesGloboMuerte2
+    21300048: SpritesGlobo_39
+    21300050: SpritesGloboMuerte3
+    21300052: SpritesGloboMuerte4
+    21300054: SpritesGloboMuerte5
+    21300056: SpritesGloboMuerte6
+    21300058: SpritesGloboMuerte7
+    21300060: SpritesGloboAtaque8
+    21300062: SpritesGloboHerido0
+    21300064: SpritesGloboEspera0
+    21300066: SpritesGloboCaminar0
+    21300068: SpritesGloboAtaque0
+    21300070: SpritesGloboMuerte0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesGloboEspera1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1087
+        width: 68
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboEspera2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1090
+        width: 68
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboEspera3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1089
+        width: 69
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboEspera4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1091
+        width: 68
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCamiar1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 854
+        width: 69
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCaminar2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 854
+        width: 63
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCaminar3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 856
+        width: 63
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCaminar4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 856
+        width: 63
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCaminar5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 856
+        width: 63
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCaminar6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 858
+        width: 63
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboHerido1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 605
+        width: 68
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboHerido2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 605
+        width: 68
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboHerido3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 606
+        width: 79
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 363
+        width: 69
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 363
+        width: 66
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 363
+        width: 63
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 363
+        width: 69
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 364
+        width: 68
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 364
+        width: 76
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 364
+        width: 105
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 107
+        width: 68
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 90
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 107
+        width: 78
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 108
+        width: 93
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 100
+        width: 112
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 103
+        width: 126
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte7
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 100
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 364
+        width: 112
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboHerido0
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 789
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboEspera0
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1255
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboCaminar0
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 996
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboAtaque0
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 497
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesGloboMuerte0
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 321
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
