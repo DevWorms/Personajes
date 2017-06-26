@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/screenTest.unity
+- path: Assets/PaperEnemy/scene_1.unity
   isLoaded: 1
   isActive: 1
