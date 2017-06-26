@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 44d977c47eba0b14284926748d6c153b
+timeCreated: 1497790351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PaperIdle_1
+    21300002: PaperIdle_2
+    21300004: PaperIdle_3
+    21300006: PaperIdle_4
+    21300008: PapelSprites_4
+    21300010: PapelSprites_5
+    21300012: PapelSprites_6
+    21300014: PapelSprites_7
+    21300016: PaperWalk_1
+    21300018: PaperWalk_2
+    21300020: PaperWalk_3
+    21300022: PaperWalk_4
+    21300024: PaperWalk_5
+    21300026: PapelSprites_13
+    21300028: PapelSprites_14
+    21300030: PapelSprites_15
+    21300032: PapelSprites_16
+    21300034: PaperHurt_1
+    21300036: PaperHurt_2
+    21300038: PaperHurt_3
+    21300040: PapelSprites_20
+    21300042: PapelSprites_21
+    21300044: PapelSprites_22
+    21300046: PapelSprites_23
+    21300048: PaperAttack_1
+    21300050: PaperAttack_2
+    21300052: PaperAttack_3
+    21300054: PaperAttack_4
+    21300056: PaperAttack_5
+    21300058: PapelSprites_29
+    21300060: PapelSprites_30
+    21300062: PapelSprites_31
+    21300064: PapelSprites_32
+    21300066: PapelSprites_33
+    21300068: PapelSprites_34
+    21300070: PaperAttackBullet_1
+    21300072: PaperAttackBullet_2
+    21300074: PaperAttackBullet_3
+    21300076: PaperAttackBullet_4
+    21300078: PaperAttackBullet_5
+    21300080: PaperAttackBullet_6
+    21300082: PaperAttackBullet_7
+    21300084: PaperDying_1
+    21300086: PaperDying_2
+    21300088: PaperDying_3
+    21300090: PaperDying_4
+    21300092: PaperDying_5
+    21300094: PaperDying_6
+    21300096: PaperDying_7
+    21300098: PaperDying_8
+    21300100: PapelSprites_50
+    21300102: PapelSprites_51
+    21300104: PapelSprites_52
+    21300106: PapelSprites_53
+    21300108: PapelSprites_54
+    21300110: PaperDying_9
+    21300112: PapelSprites_56
+    21300114: PaperDying_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaperIdle_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1278
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperIdle_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1278
+        width: 101
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperIdle_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1278
+        width: 101
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperIdle_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1278
+        width: 101
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_4
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1393
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_5
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1375
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1375
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1375
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperWalk_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1081
+        width: 143
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperWalk_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1083
+        width: 119
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperWalk_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1084
+        width: 127
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperWalk_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1084
+        width: 149
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperWalk_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1085
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_13
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1174
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1174
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1174
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_16
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1174
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperHurt_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 873
+        width: 101
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperHurt_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 874
+        width: 137
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperHurt_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 875
+        width: 139
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 977
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 976
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 977
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_23
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 976
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttack_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 668
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttack_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 668
+        width: 135
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttack_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 669
+        width: 138
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttack_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 667
+        width: 115
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttack_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 669
+        width: 115
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_29
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 649
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_30
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 648
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_31
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 648
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_32
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 648
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_33
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 648
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_34
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 649
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 498
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 500
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 498
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 498
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 498
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 507
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperAttackBullet_7
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 535
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 252
+        width: 101
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 251
+        width: 155
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 252
+        width: 112
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 250
+        width: 112
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 252
+        width: 112
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 244
+        width: 120
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 118
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 46
+        width: 120
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_50
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 179
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_51
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 184
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 179
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 142
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 131
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 42
+        width: 118
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PapelSprites_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 101
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaperDying_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 47
+        width: 128
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
