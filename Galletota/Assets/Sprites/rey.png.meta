@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 07f3a5de9a096694eb1db8d5efcc686d
+timeCreated: 1500060727
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rey_0
+    21300002: rey_1
+    21300004: rey_2
+    21300006: rey_3
+    21300008: rey_4
+    21300010: rey_5
+    21300012: rey_6
+    21300014: rey_8
+    21300016: rey_9
+    21300018: rey_10
+    21300020: rey_12
+    21300022: rey_13
+    21300024: rey_14
+    21300026: rey_16
+    21300028: rey_18
+    21300030: rey_20
+    21300032: rey_21
+    21300034: rey_22
+    21300036: rey_23
+    21300038: rey_24
+    21300040: rey_25
+    21300042: rey_26
+    21300044: rey_27
+    21300046: rey_28
+    21300048: rey_30
+    21300050: rey_32
+    21300052: rey_33
+    21300054: rey_34
+    21300056: rey_35
+    21300058: rey_38
+    21300060: rey_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rey_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 791
+        width: 110
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 791
+        width: 111
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 791
+        width: 111
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 791
+        width: 110
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 134
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 604
+        width: 159
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 607
+        width: 163
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 604
+        width: 143
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_9
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 606
+        width: 143
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 139
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 383
+        width: 158
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 385
+        width: 162
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 383
+        width: 146
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_16
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 379
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_18
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 386
+        width: 141
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 134
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 189
+        width: 159
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 162
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_23
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 189
+        width: 142
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 191
+        width: 143
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_25
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 192
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_26
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 192
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_27
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 189
+        width: 158
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 134
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 164
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 162
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_33
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 143
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2
+        width: 143
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_35
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3
+        width: 136
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_38
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 16
+        width: 162
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rey_39
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 9
+        width: 136
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
