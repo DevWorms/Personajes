@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Galletita Estados.unity
+  isLoaded: 1
+  isActive: 1
